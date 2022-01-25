@@ -9,4 +9,9 @@ How to run the project:
 -Import the database on http://localhost/phpmyadmin/
 -Open the project http://localhost/Project/foods.php 
 
+Admin Username
+email:admin@gmail.com
+password:12345
+
+
 All rights reserved PSN Foods.
